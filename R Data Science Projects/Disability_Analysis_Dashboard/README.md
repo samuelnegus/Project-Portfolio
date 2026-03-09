@@ -8,4 +8,4 @@ Along with visualizing these results, data cleaning and aggregative analysis wer
 
 ### Report Preview
 
-[Full report](final_dashboard.html)
+[Full report](final_dashboard.png)
