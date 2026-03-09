@@ -6,4 +6,4 @@ In this project, I created a data analytics dashboard to display solutions of re
 
 Along with visualizing these results, data cleaning and aggregative analysis were done beforehand.
 
-!(final_dashboard.png)
+![Final Dashboard](final_dashboard.png)
