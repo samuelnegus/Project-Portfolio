@@ -1,0 +1,19 @@
+log    = log/hw4_1job.log
+error  = error/hw4_1job.err
+output = output/hw4_1job.out
+
+container_image = osdf:///ospool/uc-shared/public/OSG-Staff/xalim_stat/R_tidyverse_FITSio.sif
+
+executable = hw4.sh
+arguments  = 3586.tgz
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+
+transfer_input_files = hw4.R, /home/groups/STAT_DSCP/boss/tgz/3586.tgz, /home/groups/STAT_DSCP/boss/cB58_Lyman_break.fit
+
+request_cpus   = 1
+request_memory = 1300MB
+request_disk   = 1300MB
+
+queue

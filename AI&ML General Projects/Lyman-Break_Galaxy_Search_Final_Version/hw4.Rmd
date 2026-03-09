@@ -1,0 +1,56 @@
+---
+title: "HW4"
+author: "Samuel Negus"
+date: "2025-04-22"
+output: html_document
+---
+
+### Summary
+
+**Process**
+
+This project was an expanded version of Homework 2, where I completed an in-depth search for galaxies resembling the cB58 Lyman-break galaxy. This time, about 2.5 million spectra were observed. The Center for High Throughput Computing (CHTC) was used to process 
+2,459 data archives with HTCondor. Using the same distance metric I implemented in HW2 (Pearson Correlation), I compiled the results into a file called hw4best100.csv containing the top 100 matches. To make transferring files easier, I created a script to extract the top 10 .fits files corresponding to the top 10 matches from hw4best100.csv. Finally, I used R to align and visualize these matches with cB58.
+
+**Difficulties**
+
+The main challenge I faced occurred in HW4a when I ran 5 jobs to first test my code. The 4th and 5th jobs would continually fail, until I solved this issue by making my script more selective of galaxies and dropping NA or Inf values where necessary. 
+
+Another slight problem I encountered was not noticing that I had 4 infinite distance values included at the top of hw4best100.csv that was compiled during HW4a. In HW4b, I changed my hw4merge.sh to filter out these values before selecting the best matches. 
+
+
+### Plotting Code
+
+```{r}
+rm(list=ls()) 
+library(FITSio)
+
+top10 <- read.csv("hw4best100.csv")[1:10, ]
+cB58 <- readFrameFromFITS("cB58_Lyman_break.fit")
+cB58_flux <- cB58$FLUX
+
+plot_spectrum <- function(file, i) {
+  noisy <- readFrameFromFITS(file)
+  noisy_flux <- noisy$flux
+  aligned_flux <- noisy_flux[i:(i + length(cB58_flux) - 1)]
+  scale_factor <- mean(cB58_flux, na.rm = TRUE) / mean(aligned_flux, na.rm = TRUE)
+  aligned_flux <- aligned_flux * scale_factor
+  min_length <- min(length(cB58_flux), length(aligned_flux))
+  
+  plot(1:min_length, aligned_flux[1:min_length], type='l', col='blue', lwd=1,
+       xlab="Shifted Wavelength", ylab="Rescaled Flux",
+       main = paste("Top Match:", file), ylim = c(0, 2.0))
+  lines(1:min_length, cB58_flux[1:min_length], col='red', lwd=1)
+  legend("topright", legend = c("Noisy Spectrum", "cB58"),
+         col = c("blue", "red"), lty = 1, lwd = 1)
+}
+
+for (j in 1:10) {
+  file <- top10$spectrumID[j]
+  i <- top10$i[j]
+  plot_spectrum(file, i)
+}
+```
+
+
+
