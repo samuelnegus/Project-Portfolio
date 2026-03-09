@@ -1,0 +1,42 @@
+[
+    {
+        "key": "Milwaukee Journal Sentinel",
+        "doc_count": 22
+    },
+    {
+        "key": "Yahoo Entertainment",
+        "doc_count": 19
+    },
+    {
+        "key": "Fox Sports",
+        "doc_count": 18
+    },
+    {
+        "key": "USA Today",
+        "doc_count": 18
+    },
+    {
+        "key": "Forbes",
+        "doc_count": 15
+    },
+    {
+        "key": "CBS Sports",
+        "doc_count": 9
+    },
+    {
+        "key": "Newsweek",
+        "doc_count": 8
+    },
+    {
+        "key": "ESPN",
+        "doc_count": 6
+    },
+    {
+        "key": "Scientific American",
+        "doc_count": 6
+    },
+    {
+        "key": "Tuscaloosa News",
+        "doc_count": 6
+    }
+]

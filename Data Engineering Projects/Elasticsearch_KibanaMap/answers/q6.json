@@ -1,0 +1,649 @@
+{
+    "took": 15,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 35,
+            "relation": "eq"
+        },
+        "max_score": 7.956723,
+        "hits": [
+            {
+                "_index": "madmap",
+                "_id": "X_IbppUBM4YDdZpJyXD9",
+                "_score": 7.956723,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Alabama football rolls past the Wisconsin Badgers 42-10",
+                    "description": "After a sloppy Week 2 win against the USF Bulls, everyone was curious how the Alabama Crimson Tide would respond against the Wisconsin Badgers in Kalen DeBoer's first road test as the head coach in Tuscaloosa. The result was more than positive. Wisco",
+                    "url": "https://rolltidewire.usatoday.com/2024/09/14/alabama-football-wisconsin-badgers-victory/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RwRc7z.ZmgkcXFw88x1cbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/roll_tide_wire_usa_today_articles_214/f3637affb3dc62d4738204dc186c71e5",
+                    "publishedAt": "2024-09-14T19:55:55Z",
+                    "content": "Sep 14, 2024; Madison, Wisconsin, USA; Alabama Crimson Tide quarterback Jalen Milroe (4) throws a pass during the first quarter against the Wisconsin Badgers at Camp Randall Stadium. Mandatory Credit\u2026 [+1213 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "xfIbppUBM4YDdZpJyXD9",
+                "_score": 7.956723,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Alabama football rolls past the Wisconsin Badgers 42-10",
+                    "description": "After a sloppy Week 2 win against the USF Bulls, everyone was curious how the Alabama Crimson Tide would respond against the Wisconsin Badgers in Kalen DeBoer's first road test as the head coach in Tuscaloosa. The result was more than positive. Wisco",
+                    "url": "https://rolltidewire.usatoday.com/2024/09/14/alabama-football-wisconsin-badgers-victory/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RwRc7z.ZmgkcXFw88x1cbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/roll_tide_wire_usa_today_articles_214/f3637affb3dc62d4738204dc186c71e5",
+                    "publishedAt": "2024-09-14T19:55:55Z",
+                    "content": "Sep 14, 2024; Madison, Wisconsin, USA; Alabama Crimson Tide quarterback Jalen Milroe (4) throws a pass during the first quarter against the Wisconsin Badgers at Camp Randall Stadium. Mandatory Credit\u2026 [+1213 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "PvIbppUBM4YDdZpJyXD9",
+                "_score": 6.3931675,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Alabama 2024 Opponent Preview: Wisconsin Badgers",
+                    "description": "Week 3 of the 2024 college football season has now officially arrived, and with that brings what is likely the toughest tes",
+                    "url": "https://rolltidewire.usatoday.com/lists/alabama-football-wisconsin-badgers-team-preview-week-3/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yWqp989P53jepAS.VSBUqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/roll_tide_wire_usa_today_articles_214/e5c22e255cf1a62cd1b42b8e9b123744",
+                    "publishedAt": "2024-09-13T10:00:00Z",
+                    "content": "Sep 7, 2024; Madison, Wisconsin, USA; Wisconsin Badgers head coach Luke Fickell looks on during warmups prior to the game against the South Dakota Coyotes at Camp Randall Stadium. Mandatory Credit: J\u2026 [+5346 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "pPIbppUBM4YDdZpJyXD9",
+                "_score": 6.3931675,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Alabama 2024 Opponent Preview: Wisconsin Badgers",
+                    "description": "Week 3 of the 2024 college football season has now officially arrived, and with that brings what is likely the toughest tes",
+                    "url": "https://rolltidewire.usatoday.com/lists/alabama-football-wisconsin-badgers-team-preview-week-3/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yWqp989P53jepAS.VSBUqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/roll_tide_wire_usa_today_articles_214/e5c22e255cf1a62cd1b42b8e9b123744",
+                    "publishedAt": "2024-09-13T10:00:00Z",
+                    "content": "Sep 7, 2024; Madison, Wisconsin, USA; Wisconsin Badgers head coach Luke Fickell looks on during warmups prior to the game against the South Dakota Coyotes at Camp Randall Stadium. Mandatory Credit: J\u2026 [+5346 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "XfIbppUBM4YDdZpJyXD9",
+                "_score": 6.031928,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "NBCSports.com"
+                    },
+                    "author": "NBC Sports",
+                    "title": "Purdue Boilermakers vs. Wisconsin Badgers prediction: Odds, expert picks, recent stats, and betting trends",
+                    "description": "Purdue Boilermakers vs. Wisconsin Badgers Game Preview",
+                    "url": "https://www.nbcsports.com/college-football/news/purdue-boilermakers-vs-wisconsin-badgers-prediction-odds-expert-picks-recent-stats-and-betting-trends",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zgDsR05L3NMKhemXpqMZnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/nbcsports.com/4c143a2c197b3b6472454be313f75dc5",
+                    "publishedAt": "2024-10-01T21:04:34Z",
+                    "content": "Ryan Walters tenure as Purdue head football coach has not started as intended. Purdue is 5-11 with Walters at the helm, and they have struggled mightily on both sides of the ball. After starting this\u2026 [+5247 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "w_IbppUBM4YDdZpJyXD9",
+                "_score": 6.031928,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "NBCSports.com"
+                    },
+                    "author": "NBC Sports",
+                    "title": "Purdue Boilermakers vs. Wisconsin Badgers prediction: Odds, expert picks, recent stats, and betting trends",
+                    "description": "Purdue Boilermakers vs. Wisconsin Badgers Game Preview",
+                    "url": "https://www.nbcsports.com/college-football/news/purdue-boilermakers-vs-wisconsin-badgers-prediction-odds-expert-picks-recent-stats-and-betting-trends",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zgDsR05L3NMKhemXpqMZnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/nbcsports.com/4c143a2c197b3b6472454be313f75dc5",
+                    "publishedAt": "2024-10-01T21:04:34Z",
+                    "content": "Ryan Walters tenure as Purdue head football coach has not started as intended. Purdue is 5-11 with Walters at the helm, and they have struggled mightily on both sides of the ball. After starting this\u2026 [+5247 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "M_IbppUBM4YDdZpJyXD9",
+                "_score": 5.6967287,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "WITI",
+                    "title": "Wisconsin Badgers host Alabama, anticipation builds in Madison",
+                    "description": "The Wisconsin Badgers host the Alabama Crimson Tide on Saturday \u2013 kickoff set for 11 a.m. on FOX6. Anticipation is building on set and on campus.",
+                    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3159a3c0-0dff-4af9-a9d8-c35cc928449d",
+                    "urlToImage": null,
+                    "publishedAt": "2024-09-14T01:15:17Z",
+                    "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "mPIbppUBM4YDdZpJyXD9",
+                "_score": 5.6967287,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "WITI",
+                    "title": "Wisconsin Badgers host Alabama, anticipation builds in Madison",
+                    "description": "The Wisconsin Badgers host the Alabama Crimson Tide on Saturday \u2013 kickoff set for 11 a.m. on FOX6. Anticipation is building on set and on campus.",
+                    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3159a3c0-0dff-4af9-a9d8-c35cc928449d",
+                    "urlToImage": null,
+                    "publishedAt": "2024-09-14T01:15:17Z",
+                    "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "NvIbppUBM4YDdZpJyXD9",
+                "_score": 5.594081,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "Yahoo Sports",
+                    "title": "How To Watch NCAA Football: Alabama vs. Wisconsin, kickoff time, how to stream and more",
+                    "description": "The Alabama Crimson Tide will face the Wisconsin Badgers in Madison, WI this Saturday.",
+                    "url": "https://sports.yahoo.com/how-to-watch-ncaa-football-alabama-vs-wisconsin-kickoff-time-how-to-stream-and-more-104511090.html",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1YfzSt4lX9RyVb0BHqtCew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODY-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/aa9039a0-6d73-11ef-b3ff-7b280504a68a",
+                    "publishedAt": "2024-09-14T10:45:11Z",
+                    "content": "No. 4-ranked Alabama will head north to play the Wisconsin Badgers during Week 3 of NCAA football season this weekend, their first visit to Madison in 96 years. Though both teams have won their two p\u2026 [+8018 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "m_IbppUBM4YDdZpJyXD9",
+                "_score": 5.594081,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "Yahoo Sports",
+                    "title": "How To Watch NCAA Football: Alabama vs. Wisconsin, kickoff time, how to stream and more",
+                    "description": "The Alabama Crimson Tide will face the Wisconsin Badgers in Madison, WI this Saturday.",
+                    "url": "https://sports.yahoo.com/how-to-watch-ncaa-football-alabama-vs-wisconsin-kickoff-time-how-to-stream-and-more-104511090.html",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1YfzSt4lX9RyVb0BHqtCew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODY-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/aa9039a0-6d73-11ef-b3ff-7b280504a68a",
+                    "publishedAt": "2024-09-14T10:45:11Z",
+                    "content": "No. 4-ranked Alabama will head north to play the Wisconsin Badgers during Week 3 of NCAA football season this weekend, their first visit to Madison in 96 years. Though both teams have won their two p\u2026 [+8018 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "OvIbppUBM4YDdZpJyXD9",
+                "_score": 5.3219748,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "Milwaukee Journal Sentinel",
+                    "title": "Drone view of Camp Randall Stadium in Madison, the home of Wisconsin Badgers Football",
+                    "description": "Get a bird's eye view of the home of the Wisconsin Badgers Football team, Camp Randall Stadium in Madison.",
+                    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e14df6d3-2d44-427d-8c4b-34459b017a9e",
+                    "urlToImage": null,
+                    "publishedAt": "2024-09-24T20:27:00Z",
+                    "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "oPIbppUBM4YDdZpJyXD9",
+                "_score": 5.3219748,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "Milwaukee Journal Sentinel",
+                    "title": "Drone view of Camp Randall Stadium in Madison, the home of Wisconsin Badgers Football",
+                    "description": "Get a bird's eye view of the home of the Wisconsin Badgers Football team, Camp Randall Stadium in Madison.",
+                    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e14df6d3-2d44-427d-8c4b-34459b017a9e",
+                    "urlToImage": null,
+                    "publishedAt": "2024-09-24T20:27:00Z",
+                    "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "E_IbppUBM4YDdZpJyXD9",
+                "_score": 5.193467,
+                "_source": {
+                    "source": {
+                        "id": "fox-sports",
+                        "name": "Fox Sports"
+                    },
+                    "author": null,
+                    "title": "Alabama vs. Wisconsin Prediction, Odds, Expert Pick",
+                    "description": "Preview the Sept. 14 matchup between the Alabama Crimson Tide and Wisconsin Badgers with predictions, odds, over/under, spread, betting lines and more.",
+                    "url": "https://www.foxsports.com/stories/college-football/alabama-vs-wisconsin-prediction-odds-picks-september-14-2024",
+                    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/09/1408/814/tuscaloosa-alabama-jalen-milroe-of-the-alabama-crimson-tide-runs-the-ball-during-the-second.jpg?ve=1&tl=1",
+                    "publishedAt": "2024-09-12T18:55:25Z",
+                    "content": "The No. 4 Alabama Crimson Tide (2-0) are massive 16.5-point favorites on Saturday, September 14, 2024 against the Wisconsin Badgers (2-0). The point total is 49.5 for the contest.\r\nFacing the South F\u2026 [+5039 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "ePIbppUBM4YDdZpJyXD9",
+                "_score": 5.193467,
+                "_source": {
+                    "source": {
+                        "id": "fox-sports",
+                        "name": "Fox Sports"
+                    },
+                    "author": null,
+                    "title": "Alabama vs. Wisconsin Prediction, Odds, Expert Pick",
+                    "description": "Preview the Sept. 14 matchup between the Alabama Crimson Tide and Wisconsin Badgers with predictions, odds, over/under, spread, betting lines and more.",
+                    "url": "https://www.foxsports.com/stories/college-football/alabama-vs-wisconsin-prediction-odds-picks-september-14-2024",
+                    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/09/1408/814/tuscaloosa-alabama-jalen-milroe-of-the-alabama-crimson-tide-runs-the-ball-during-the-second.jpg?ve=1&tl=1",
+                    "publishedAt": "2024-09-12T18:55:25Z",
+                    "content": "The No. 4 Alabama Crimson Tide (2-0) are massive 16.5-point favorites on Saturday, September 14, 2024 against the Wisconsin Badgers (2-0). The point total is 49.5 for the contest.\r\nFacing the South F\u2026 [+5039 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "U_IbppUBM4YDdZpJyXD9",
+                "_score": 5.1533184,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "USA TODAY Sports",
+                    "title": "Wisconsin QB Tyler Van Dyke to miss rest of season with knee injury, per reports",
+                    "description": "Wisconsin Badgers senior quarterback Tyler Van Dyke will miss remainder of the 2024 season after reportedly suffering a torn ACL in his right knee.",
+                    "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2024/09/16/tyler-van-dyke-wisconsin-badgers-knee-injury/75255777007/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aC5zXURGT9iFIM9ExHTGWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_sports_articles_558/9a2f1e806014620bcd20a7cb6ed27a41",
+                    "publishedAt": "2024-09-16T22:04:11Z",
+                    "content": "MADISON, Wis. The news on Tyler Van Dyke is as bad as expected.\r\nThe Wisconsin Badgers' senior quarterback will miss the remainder of the season due to a right knee injury he suffered during the firs\u2026 [+824 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "ufIbppUBM4YDdZpJyXD9",
+                "_score": 5.1533184,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "USA TODAY Sports",
+                    "title": "Wisconsin QB Tyler Van Dyke to miss rest of season with knee injury, per reports",
+                    "description": "Wisconsin Badgers senior quarterback Tyler Van Dyke will miss remainder of the 2024 season after reportedly suffering a torn ACL in his right knee.",
+                    "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2024/09/16/tyler-van-dyke-wisconsin-badgers-knee-injury/75255777007/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aC5zXURGT9iFIM9ExHTGWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_sports_articles_558/9a2f1e806014620bcd20a7cb6ed27a41",
+                    "publishedAt": "2024-09-16T22:04:11Z",
+                    "content": "MADISON, Wis. The news on Tyler Van Dyke is as bad as expected.\r\nThe Wisconsin Badgers' senior quarterback will miss the remainder of the season due to a right knee injury he suffered during the firs\u2026 [+824 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "FvIbppUBM4YDdZpJyXD9",
+                "_score": 4.98074,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "CBS Sports"
+                    },
+                    "author": "CBS Sports Staff",
+                    "title": "Wisconsin vs. Alabama prediction, odds, line: 2024 college football picks, Week 3 best bets from proven expert",
+                    "description": "SportsLine's Jimmie Kaylor revealed his Week 3 CFB picks, predictions and props for the Wisconsin Badgers vs. Alabama Crimson Tide game at Camp Randall Stadium in Madison",
+                    "url": "https://www.cbssports.com/college-football/news/wisconsin-vs-alabama-prediction-odds-line-2024-college-football-picks-week-3-best-bets-from-proven-expert/",
+                    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/13/d23b7b01-d948-4bad-b03b-4159c2bb7473/thumbnail/1200x675/c4f630ea2b6ef129413dbac26863cab3/chez-mellusi-wisconsin-badgers-usatsi.jpg",
+                    "publishedAt": "2024-09-14T11:44:52Z",
+                    "content": "The No. 4 Alabama Crimson Tide (2-0) look to stay unbeaten when they travel to Camp Randall Stadium to take on the Wisconsin Badgers (2-0) on Saturday. The Tide haven't skipped a beat under first-yea\u2026 [+3949 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "e_IbppUBM4YDdZpJyXD9",
+                "_score": 4.98074,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "CBS Sports"
+                    },
+                    "author": "CBS Sports Staff",
+                    "title": "Wisconsin vs. Alabama prediction, odds, line: 2024 college football picks, Week 3 best bets from proven expert",
+                    "description": "SportsLine's Jimmie Kaylor revealed his Week 3 CFB picks, predictions and props for the Wisconsin Badgers vs. Alabama Crimson Tide game at Camp Randall Stadium in Madison",
+                    "url": "https://www.cbssports.com/college-football/news/wisconsin-vs-alabama-prediction-odds-line-2024-college-football-picks-week-3-best-bets-from-proven-expert/",
+                    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/13/d23b7b01-d948-4bad-b03b-4159c2bb7473/thumbnail/1200x675/c4f630ea2b6ef129413dbac26863cab3/chez-mellusi-wisconsin-badgers-usatsi.jpg",
+                    "publishedAt": "2024-09-14T11:44:52Z",
+                    "content": "The No. 4 Alabama Crimson Tide (2-0) look to stay unbeaten when they travel to Camp Randall Stadium to take on the Wisconsin Badgers (2-0) on Saturday. The Tide haven't skipped a beat under first-yea\u2026 [+3949 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "TfIbppUBM4YDdZpJyXD9",
+                "_score": 4.9076185,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Who are 5 Wisconsin players to know for Alabama's Week 3 matchup?",
+                    "description": "The Alabama Crimson Tide will travel north to take on the Wisconsin Badgers in Week 3 of the 2024 season. Kalen DeBoer's squad picked up two wins in his first two games against Wes",
+                    "url": "https://rolltidewire.usatoday.com/lists/alabama-football-wisconsin-badgers-top-players-week-3/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IKkFAqxfSgi77qanfZxIgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/roll_tide_wire_usa_today_articles_214/e42b2c38cb0319e47fd77c856ddad9b1",
+                    "publishedAt": "2024-09-11T16:15:00Z",
+                    "content": "MADISON, WISCONSIN - AUGUST 30: Tyler Van Dyke #10 of the Wisconsin Badgers warms up before the game against the Western Michigan Broncos at Camp Randall Stadium on August 30, 2024 in Madison, Wiscon\u2026 [+4600 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "s_IbppUBM4YDdZpJyXD9",
+                "_score": 4.9076185,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Who are 5 Wisconsin players to know for Alabama's Week 3 matchup?",
+                    "description": "The Alabama Crimson Tide will travel north to take on the Wisconsin Badgers in Week 3 of the 2024 season. Kalen DeBoer's squad picked up two wins in his first two games against Wes",
+                    "url": "https://rolltidewire.usatoday.com/lists/alabama-football-wisconsin-badgers-top-players-week-3/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IKkFAqxfSgi77qanfZxIgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/roll_tide_wire_usa_today_articles_214/e42b2c38cb0319e47fd77c856ddad9b1",
+                    "publishedAt": "2024-09-11T16:15:00Z",
+                    "content": "MADISON, WISCONSIN - AUGUST 30: Tyler Van Dyke #10 of the Wisconsin Badgers warms up before the game against the Western Michigan Broncos at Camp Randall Stadium on August 30, 2024 in Madison, Wiscon\u2026 [+4600 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "WfIbppUBM4YDdZpJyXD9",
+                "_score": 4.630889,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Instant reactions to Alabama's win over Wisconsin",
+                    "description": "The Alabama Crimson Tide were back in action Saturday afternoon during Week 3, as the program traveled north for a rare road game in the Big Ten against the Wisconsin Badgers. A game in which the Crimson Tide won by a final score of 42-10, here are a",
+                    "url": "https://rolltidewire.usatoday.com/2024/09/14/alabama-football-instant-analysis-wisconsin-badgers-win/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vzqwMO5rzzgeb1SB4anwyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/roll_tide_wire_usa_today_articles_214/0b2051288fe937a41f4e594455b187a1",
+                    "publishedAt": "2024-09-14T19:25:49Z",
+                    "content": "Sep 14, 2024; Madison, Wisconsin, USA; Alabama Crimson Tide running back Jam Miller (26) rushes with the football during the second quarter against the Wisconsin Badgers at Camp Randall Stadium. Mand\u2026 [+1880 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "v_IbppUBM4YDdZpJyXD9",
+                "_score": 4.630889,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Instant reactions to Alabama's win over Wisconsin",
+                    "description": "The Alabama Crimson Tide were back in action Saturday afternoon during Week 3, as the program traveled north for a rare road game in the Big Ten against the Wisconsin Badgers. A game in which the Crimson Tide won by a final score of 42-10, here are a",
+                    "url": "https://rolltidewire.usatoday.com/2024/09/14/alabama-football-instant-analysis-wisconsin-badgers-win/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vzqwMO5rzzgeb1SB4anwyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/roll_tide_wire_usa_today_articles_214/0b2051288fe937a41f4e594455b187a1",
+                    "publishedAt": "2024-09-14T19:25:49Z",
+                    "content": "Sep 14, 2024; Madison, Wisconsin, USA; Alabama Crimson Tide running back Jam Miller (26) rushes with the football during the second quarter against the Wisconsin Badgers at Camp Randall Stadium. Mand\u2026 [+1880 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "WPIbppUBM4YDdZpJyXD9",
+                "_score": 2.935874,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Milwaukee Journal Sentinel"
+                    },
+                    "author": "Milwaukee Journal Sentinel",
+                    "title": "How much are Wisconsin Badgers football tickets for Alabama game Saturday?",
+                    "description": "Fans will pay triple digits on the secondary market.",
+                    "url": "https://www.jsonline.com/story/sports/college/uw/2024/09/09/how-much-are-wisconsin-football-tickets-for-alabama-game-saturday/75143927007/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5Yl6nXMFrwk1ir3DcFzAaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/milwaukee-journal-sentinel/7b9eae9d907c866d9422cf67f00eb077",
+                    "publishedAt": "2024-09-09T16:09:08Z",
+                    "content": "The University of Alabama football team hasn't played at Camp Randall Stadium since 1928, and those who still want to witness the once-in-a-century occasion will pay triple digits to see it happen.\r\n\u2026 [+2201 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "vvIbppUBM4YDdZpJyXD9",
+                "_score": 2.935874,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Milwaukee Journal Sentinel"
+                    },
+                    "author": "Milwaukee Journal Sentinel",
+                    "title": "How much are Wisconsin Badgers football tickets for Alabama game Saturday?",
+                    "description": "Fans will pay triple digits on the secondary market.",
+                    "url": "https://www.jsonline.com/story/sports/college/uw/2024/09/09/how-much-are-wisconsin-football-tickets-for-alabama-game-saturday/75143927007/",
+                    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5Yl6nXMFrwk1ir3DcFzAaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/milwaukee-journal-sentinel/7b9eae9d907c866d9422cf67f00eb077",
+                    "publishedAt": "2024-09-09T16:09:08Z",
+                    "content": "The University of Alabama football team hasn't played at Camp Randall Stadium since 1928, and those who still want to witness the once-in-a-century occasion will pay triple digits to see it happen.\r\n\u2026 [+2201 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "RfIbppUBM4YDdZpJyXD9",
+                "_score": 2.6549084,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Milwaukee Journal Sentinel"
+                    },
+                    "author": "Milwaukee Journal Sentinel",
+                    "title": "What's the point spread for the Wisconsin Badgers-Alabama Crimson Tide football game Saturday?",
+                    "description": "Alabama is favored to defeat Wisconsin on Saturday, but that probably doesn't shock you. The spread is interesting, though.",
+                    "url": "https://www.jsonline.com/story/sports/college/uw/2024/09/09/wisconsin-badgers-alabama-crimson-tide-football-odds-point-spread/75146664007/",
+                    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+                    "publishedAt": "2024-09-09T18:31:58Z",
+                    "content": "No. 4 Alabama pays Wisconsin a visit Saturday in a high-profile nonconference football game, and as you might expect, Alabama will be favored to win the battle over the unranked Badgers.\r\nDoes two to\u2026 [+1348 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "q_IbppUBM4YDdZpJyXD9",
+                "_score": 2.6549084,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Milwaukee Journal Sentinel"
+                    },
+                    "author": "Milwaukee Journal Sentinel",
+                    "title": "What's the point spread for the Wisconsin Badgers-Alabama Crimson Tide football game Saturday?",
+                    "description": "Alabama is favored to defeat Wisconsin on Saturday, but that probably doesn't shock you. The spread is interesting, though.",
+                    "url": "https://www.jsonline.com/story/sports/college/uw/2024/09/09/wisconsin-badgers-alabama-crimson-tide-football-odds-point-spread/75146664007/",
+                    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+                    "publishedAt": "2024-09-09T18:31:58Z",
+                    "content": "No. 4 Alabama pays Wisconsin a visit Saturday in a high-profile nonconference football game, and as you might expect, Alabama will be favored to win the battle over the unranked Badgers.\r\nDoes two to\u2026 [+1348 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "Y_IbppUBM4YDdZpJyXD9",
+                "_score": 2.641524,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Badgers Wire",
+                    "title": "How much are tickets for Wisconsin football vs. Alabama?",
+                    "description": "Ticket prices for Wisconsin vs Alabama continue to rise:",
+                    "url": "https://badgerswire.usatoday.com/2024/09/09/wisconsin-badgers-alabama-stubhub-ticket-prices/",
+                    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+                    "publishedAt": "2024-09-09T13:30:07Z",
+                    "content": "The Wisconsin Badgers (2-0) host the No. 4-ranked Alabama Crimson Tide (2-0) on Saturday afternoon in one of the biggest games of their season. Not only that, but it is also one of Wisconsin\u2019s bigges\u2026 [+1485 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "yfIbppUBM4YDdZpJyXD9",
+                "_score": 2.641524,
+                "_source": {
+                    "source": {
+                        "id": "usa-today",
+                        "name": "USA Today"
+                    },
+                    "author": "Badgers Wire",
+                    "title": "How much are tickets for Wisconsin football vs. Alabama?",
+                    "description": "Ticket prices for Wisconsin vs Alabama continue to rise:",
+                    "url": "https://badgerswire.usatoday.com/2024/09/09/wisconsin-badgers-alabama-stubhub-ticket-prices/",
+                    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+                    "publishedAt": "2024-09-09T13:30:07Z",
+                    "content": "The Wisconsin Badgers (2-0) host the No. 4-ranked Alabama Crimson Tide (2-0) on Saturday afternoon in one of the biggest games of their season. Not only that, but it is also one of Wisconsin\u2019s bigges\u2026 [+1485 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "F_IbppUBM4YDdZpJyXD9",
+                "_score": 2.339216,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "CBS Sports"
+                    },
+                    "author": "CBS Sports Staff",
+                    "title": "Wisconsin vs. Alabama prediction, odds, line: 2024 college football picks, Week 3 best bets by proven expert",
+                    "description": "SportsLine's Jimmie Kaylor revealed his Week 3 CFB picks, predictions and props for the Wisconsin Badgers vs. Alabama Crimson Tide game at Camp Randall Stadium in Madison",
+                    "url": "https://www.cbssports.com/college-football/news/wisconsin-vs-alabama-prediction-odds-line-2024-college-football-picks-week-3-best-bets-by-proven-expert/",
+                    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/13/d23b7b01-d948-4bad-b03b-4159c2bb7473/thumbnail/1200x675/c4f630ea2b6ef129413dbac26863cab3/chez-mellusi-wisconsin-badgers-usatsi.jpg",
+                    "publishedAt": "2024-09-13T11:38:07Z",
+                    "content": "The No. 4 Alabama Crimson Tide (2-0) head north to take on a Big Ten foe when they play Wisconsin (2-0) on Saturday at Camp Randall Stadium in Madison. Alabama is coming off a pair of blowout wins to\u2026 [+3900 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "fPIbppUBM4YDdZpJyXD9",
+                "_score": 2.339216,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "CBS Sports"
+                    },
+                    "author": "CBS Sports Staff",
+                    "title": "Wisconsin vs. Alabama prediction, odds, line: 2024 college football picks, Week 3 best bets by proven expert",
+                    "description": "SportsLine's Jimmie Kaylor revealed his Week 3 CFB picks, predictions and props for the Wisconsin Badgers vs. Alabama Crimson Tide game at Camp Randall Stadium in Madison",
+                    "url": "https://www.cbssports.com/college-football/news/wisconsin-vs-alabama-prediction-odds-line-2024-college-football-picks-week-3-best-bets-by-proven-expert/",
+                    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/13/d23b7b01-d948-4bad-b03b-4159c2bb7473/thumbnail/1200x675/c4f630ea2b6ef129413dbac26863cab3/chez-mellusi-wisconsin-badgers-usatsi.jpg",
+                    "publishedAt": "2024-09-13T11:38:07Z",
+                    "content": "The No. 4 Alabama Crimson Tide (2-0) head north to take on a Big Ten foe when they play Wisconsin (2-0) on Saturday at Camp Randall Stadium in Madison. Alabama is coming off a pair of blowout wins to\u2026 [+3900 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "ZfIbppUBM4YDdZpJyXD9",
+                "_score": 2.2694724,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "TAsWinkWink.com"
+                    },
+                    "author": "Aryan",
+                    "title": "Date announced: Coldplay concert at Camp Randall Stadium excites business owners, tourism officials",
+                    "description": "MADISON (WKOW): The Wisconsin Badgers announced in a post on social media over the weekend Coldplay would come to Camp Randall, exciting both local business owners and tourism leaders.",
+                    "url": "https://aryan_manually_added_this_for_you.com",
+                    "publishedAt": "2024-09-27T20:02:54Z",
+                    "WhenIsItHappening": "July 19, 2025",
+                    "geoLocation": "43.07003017809815, -89.41261330600952"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "SPIbppUBM4YDdZpJyXD9",
+                "_score": 2.0831447,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "How to buy Wisconsin vs. Alabama Week 3 college football tickets",
+                    "description": "The Wisconsin Badgers will host the Alabama Crimson Tide in Madison on Saturday for a Week 3 matchup between the Southeastern Conference and Big Ten, and if you are looking for tickets to the ga",
+                    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8bc65cc-6328-4bfa-ba05-73bec1d3c752",
+                    "urlToImage": null,
+                    "publishedAt": "2024-09-09T14:34:04Z",
+                    "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "rvIbppUBM4YDdZpJyXD9",
+                "_score": 2.0831447,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "How to buy Wisconsin vs. Alabama Week 3 college football tickets",
+                    "description": "The Wisconsin Badgers will host the Alabama Crimson Tide in Madison on Saturday for a Week 3 matchup between the Southeastern Conference and Big Ten, and if you are looking for tickets to the ga",
+                    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8bc65cc-6328-4bfa-ba05-73bec1d3c752",
+                    "urlToImage": null,
+                    "publishedAt": "2024-09-09T14:34:04Z",
+                    "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "RPIbppUBM4YDdZpJyXD9",
+                "_score": 1.8106122,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Looking Back: Alabama vs. Wisconsin head-to-head football history",
+                    "description": "On Saturday afternoon, the Alabama Crimson Tide will travel north for a rare true road game in the Big Ten, as the program makes its' way to Madison for a Week 3 matchup against the Wisconsin Badgers. A matchup pitting the SEC vs. Big Ten, the Crimso",
+                    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e575b743-2108-4e57-8896-772b37aa2259",
+                    "urlToImage": null,
+                    "publishedAt": "2024-09-11T19:45:13Z",
+                    "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "qvIbppUBM4YDdZpJyXD9",
+                "_score": 1.8106122,
+                "_source": {
+                    "source": {
+                        "id": null,
+                        "name": "Yahoo Entertainment"
+                    },
+                    "author": "Roll Tide Wire",
+                    "title": "Looking Back: Alabama vs. Wisconsin head-to-head football history",
+                    "description": "On Saturday afternoon, the Alabama Crimson Tide will travel north for a rare true road game in the Big Ten, as the program makes its' way to Madison for a Week 3 matchup against the Wisconsin Badgers. A matchup pitting the SEC vs. Big Ten, the Crimso",
+                    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e575b743-2108-4e57-8896-772b37aa2259",
+                    "urlToImage": null,
+                    "publishedAt": "2024-09-11T19:45:13Z",
+                    "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+                }
+            }
+        ]
+    }
+}

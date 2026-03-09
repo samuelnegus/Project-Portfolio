@@ -1,0 +1,29 @@
+{
+  "coordinates": [
+    {
+      "coordinates": [
+        -89.38210219999999,
+        43.0754933
+      ],
+      "type": "Point"
+    }
+  ],
+  "formattedAddress": [
+    "1 S Pinckney St, Madison, WI 53703, USA"
+  ],
+  "name": [
+    "L'Etoile Restaurant"
+  ],
+  "place_id": [
+    "ChIJvw6XEsNTBogRN99XXAXk-pI"
+  ],
+  "place_type": [
+    "restaurants"
+  ],
+  "priceLevel": [
+    "PRICE_LEVEL_VERY_EXPENSIVE"
+  ],
+  "_id": "JFnLpZUB2jbDfpwNvUcT",
+  "_index": "places_madison",
+  "_score": 5.3213825
+}

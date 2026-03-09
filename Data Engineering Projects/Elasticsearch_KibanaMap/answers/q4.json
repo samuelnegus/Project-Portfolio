@@ -1,0 +1,355 @@
+{
+    "took": 3,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 21,
+            "relation": "eq"
+        },
+        "max_score": 3.1895115,
+        "hits": [
+            {
+                "_index": "madmap",
+                "_id": "204",
+                "_score": 3.1895115,
+                "_source": {
+                    "formattedAddress": "University of Wisconsin\u2013Madison, 2000 University Bay Dr, Madison, WI 53705, USA",
+                    "name": "Picnic Point",
+                    "coordinates": [
+                        -89.4081398,
+                        43.075322
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJHUh_CpWsB4gRZDpzkeBl4Mk",
+                    "place_type": "parks"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "12",
+                "_score": 3.1895115,
+                "_source": {
+                    "formattedAddress": "University of Wisconsin\u2013Madison, 2000 University Bay Dr, Madison, WI 53705, USA",
+                    "name": "Picnic Point",
+                    "coordinates": [
+                        -89.4081398,
+                        43.075322
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJHUh_CpWsB4gRZDpzkeBl4Mk",
+                    "place_type": "tourism"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "257",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "800 University Ave, Madison, WI 53706, USA",
+                    "name": "Chazen Museum of Art",
+                    "coordinates": [
+                        -89.399823,
+                        43.074127
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJFcg858qsB4gRjzJTovkmbXI",
+                    "place_type": "uw"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "265",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "975 University Ave, Madison, WI 53706, USA",
+                    "name": "Wisconsin School of Business",
+                    "coordinates": [
+                        -89.40163559999999,
+                        43.0727087
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJe0onv8usB4gRLcq8Y_VTDig",
+                    "place_type": "uw"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "292",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "624 University Ave, Madison, WI 53715, USA",
+                    "name": "Liquid",
+                    "coordinates": [
+                        -89.396921,
+                        43.073375
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJm7Kl4zRTBogRD_nzB5ZPsxw",
+                    "place_type": "clubs"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "2",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "800 University Ave, Madison, WI 53706, USA",
+                    "name": "Chazen Museum of Art",
+                    "coordinates": [
+                        -89.399823,
+                        43.074127
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJFcg858qsB4gRjzJTovkmbXI",
+                    "place_type": "tourism"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "18",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "1150 University Ave, Madison, WI 53706, USA",
+                    "name": "Physics Museum",
+                    "coordinates": [
+                        -89.4053392,
+                        43.0736316
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJGykVqsmsB4gRqKJy-v6-fDM",
+                    "place_type": "tourism"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "40",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "602 University Ave, Madison, WI 53715, USA",
+                    "name": "Wando's",
+                    "coordinates": [
+                        -89.3959203,
+                        43.0733926
+                    ],
+                    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+                    "place_id": "ChIJZX27VjRTBogRRSkm89cCWQ8",
+                    "place_type": "bars"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "74",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "2840 University Ave, Madison, WI 53705, USA",
+                    "name": "Sa-Bai Thong Thai Cuisine",
+                    "coordinates": [
+                        -89.43796999999999,
+                        43.07528
+                    ],
+                    "priceLevel": "PRICE_LEVEL_MODERATE",
+                    "place_id": "ChIJ61Oox1-sB4gRbxDBhmcnGRo",
+                    "place_type": "restaurants"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "86",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "610 University Ave, Madison, WI 53715, USA",
+                    "name": "Sushi Express",
+                    "coordinates": [
+                        -89.3962809,
+                        43.0734295
+                    ],
+                    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+                    "place_id": "ChIJZfTN-DRTBogRPQQXjOR_KJg",
+                    "place_type": "restaurants"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "93",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "3650 University Ave, Madison, WI 53705, USA",
+                    "name": "SNOWFOX Sushi",
+                    "coordinates": [
+                        -89.4494436,
+                        43.0765161
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJpaBs4GmsB4gRy7M0O_UUUQo",
+                    "place_type": "restaurants"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "235",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "2862 University Ave, Madison, WI 53705, USA",
+                    "name": "La Brioche True Food",
+                    "coordinates": [
+                        -89.4383409,
+                        43.0755273
+                    ],
+                    "priceLevel": "PRICE_LEVEL_MODERATE",
+                    "place_id": "ChIJ-Xjbzl-sB4gRhDqyeg0hcZk",
+                    "place_type": "cafes"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "141",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "800 University Ave, Madison, WI 53706, USA",
+                    "name": "Chazen Museum of Art",
+                    "coordinates": [
+                        -89.399823,
+                        43.074127
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJFcg858qsB4gRjzJTovkmbXI",
+                    "place_type": "museuems"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "148",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "1150 University Ave, Madison, WI 53706, USA",
+                    "name": "Physics Museum",
+                    "coordinates": [
+                        -89.4053392,
+                        43.0736316
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJGykVqsmsB4gRqKJy-v6-fDM",
+                    "place_type": "museuems"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "107",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "703 University Ave, Madison, WI 53715, USA",
+                    "name": "Fresh Madison Market",
+                    "coordinates": [
+                        -89.397763,
+                        43.072948
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJMXyczTRTBogR_8qCE2mRiec",
+                    "place_type": "groceries"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "112",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "6825 University Ave, Middleton, WI 53562, USA",
+                    "name": "Willy Street Co-op\u2014West",
+                    "coordinates": [
+                        -89.50040779999999,
+                        43.0964478
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJr47L2DKpB4gRxmwWp3cQvuM",
+                    "place_type": "groceries"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "196",
+                "_score": 2.7880967,
+                "_source": {
+                    "formattedAddress": "3401 University Ave, Madison, WI 53705, USA",
+                    "name": "Kwik Trip",
+                    "coordinates": [
+                        -89.44600439999999,
+                        43.0748545
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJtx-QzEKsB4gRs6I79w-Ng1Q",
+                    "place_type": "gas"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "206",
+                "_score": 2.644138,
+                "_source": {
+                    "formattedAddress": "2000 University Bay Dr, Madison, WI 53705, USA",
+                    "name": "UW-Madison Lakeshore Nature Preserve",
+                    "coordinates": [
+                        -89.4216051,
+                        43.0866099
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJFxm-uJmsB4gR0OdrcjbVFig",
+                    "place_type": "parks"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "17",
+                "_score": 2.644138,
+                "_source": {
+                    "formattedAddress": "2000 University Bay Dr, Madison, WI 53705, USA",
+                    "name": "UW-Madison Lakeshore Nature Preserve",
+                    "coordinates": [
+                        -89.4216051,
+                        43.0866099
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJFxm-uJmsB4gR0OdrcjbVFig",
+                    "place_type": "tourism"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "252",
+                "_score": 2.2894957,
+                "_source": {
+                    "formattedAddress": "2107, Mechanical Engineering Building, 1513 University Ave, Madison, WI 53706, USA",
+                    "name": "Department of Mechanical Engineering",
+                    "coordinates": [
+                        -89.4124265,
+                        43.0731405
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJBY8ZzMasB4gRZXfKj2wOx1I",
+                    "place_type": "uw"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "266",
+                "_score": 2.2894957,
+                "_source": {
+                    "formattedAddress": "Thomas C Chamberlin Hall, 1150 University Ave, Madison, WI 53706, USA",
+                    "name": "Chamberlin Hall",
+                    "coordinates": [
+                        -89.4053392,
+                        43.0736316
+                    ],
+                    "priceLevel": "NO_PRICE_LEVEL",
+                    "place_id": "ChIJGykVqsmsB4gRqKJy-v6-fDM",
+                    "place_type": "uw"
+                }
+            }
+        ]
+    }
+}

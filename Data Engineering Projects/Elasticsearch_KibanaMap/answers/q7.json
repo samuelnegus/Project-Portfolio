@@ -1,0 +1,262 @@
+{
+    "took": 6,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 27,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "madmap",
+                "_id": "213",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "6300 Mendota Ave, Middleton, WI 53562, USA",
+                    "name": "Lakeview Park"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "217",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "2930 Chapel Valley Rd, Fitchburg, WI 53711, USA",
+                    "name": "McKee Farms Park"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "295",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "7302 US-14, Middleton, WI 53562, USA",
+                    "name": "Silk Exotic Madison Gentlemen's Club"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "162",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "2620 Rimrock Rd, Fitchburg, WI 53713, USA",
+                    "name": "Rutabaga Paddlesports"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "168",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "Marina Slip #5, 6308 Inland Wy, Monona, WI 53713, USA",
+                    "name": "Paddle Pub Madison"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "225",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "4124 Monona Dr, Monona, WI 53716, USA",
+                    "name": "Crema Cafe"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "239",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "1824 Parmenter St, Middleton, WI 53562, USA",
+                    "name": "Grace Coffee Co"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "147",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "7477 Hubbard Ave, Middleton, WI 53562, USA",
+                    "name": "National Mustard Museum"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "149",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "1433 W Main St, Sun Prairie, WI 53590, USA",
+                    "name": "Explore Children's Museum"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "155",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "1131 Mills St, Black Earth, WI 53515, USA",
+                    "name": "Black Earth Children's Museum"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "157",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "277 W Main St, Stoughton, WI 53589, USA",
+                    "name": "Livsreise - Norwegian Heritage Center"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "160",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "324 S Page St, Stoughton, WI 53589, USA",
+                    "name": "Stoughton Historical Museum"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "274",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "2529 Allen Blvd, Middleton, WI 53562, USA",
+                    "name": "Harbor Athletic Club"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "275",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "5380 King James Way Suite A1, Fitchburg, WI 53719, USA",
+                    "name": "Functional Integrated Training"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "276",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "2920 Hardrock Rd, Fitchburg, WI 53719, USA",
+                    "name": "Princeton Club Fitchburg"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "277",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "5413 Monona Dr, Monona, WI 53716, USA",
+                    "name": "Princeton Club Xpress Monona"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "279",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "5973 Executive Dr, Fitchburg, WI 53719, USA",
+                    "name": "Pinnacle Health + Fitness - Fitchburg"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "283",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "5720 U.S. Hwy 51, McFarland, WI 53558, USA",
+                    "name": "Princeton Club Xpress McFarland"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "284",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "1010 N Bird St Suite 100, Sun Prairie, WI 53590, USA",
+                    "name": "Prairie Athletic Club"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "286",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "2881 Commerce Park Dr suite b, Fitchburg, WI 53719, USA",
+                    "name": "Bakke Athletics"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "110",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "1099 S Grand Ave, Sun Prairie, WI 53590, USA",
+                    "name": "Woodman's Food Market"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "111",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "210 S Main St, Verona, WI 53593, USA",
+                    "name": "Miller & Sons Supermarket"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "112",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "6825 University Ave, Middleton, WI 53562, USA",
+                    "name": "Willy Street Co-op\u2014West"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "113",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "531 A St, Sun Prairie, WI 53590, USA",
+                    "name": "Fresh Mart"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "116",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "3010 Cahill Main, Fitchburg, WI 53711, USA",
+                    "name": "Pick 'n Save"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "120",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "660 Hometown Cir, Verona, WI 53593, USA",
+                    "name": "Festival Foods"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "192",
+                "_score": 1.0,
+                "_source": {
+                    "formattedAddress": "2500 Royal Ave, Monona, WI 53713, USA",
+                    "name": "Speedway"
+                }
+            }
+        ]
+    }
+}
